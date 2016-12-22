@@ -457,6 +457,11 @@ www.aftonbladet.se##[id="ads"]
 pctidningen.se##[class="sleeknote"]
 www.mediamarkt.se##[id="recommendedProds"]
 www.coop.se##[class="Grid-cell v2-u-size4of5 v3-u-size1of2 v4-u-size2of5"]
+www.deviantart.com##[class="today_module today_module_freeform module-width-100 support_partial"]
+www.hitta.se##[class="h-badges h-list h-list-badges h-top h-timed-badge-ads-control"]
+watchcartoonsonline.eu##[id="M140529ScriptRootC62212"]
+watchcartoonsonline.eu##[class="share-this"]
+watchcartoonsonline.eu##[id="text-4"][class="widget widget_text"]
 @@||$xmlhttprequest,script,domain=wired.com
 @@||condenastdigital.com^$image,domain=wired.com
 @@||pixel.parsely.com$image,domain=wired.com
@@ -497,3 +502,4 @@ http://www.webdesignerdepot.com/widget/wdd-freebie-popup.php?ref=wddpopup&show_a
 http://popup.taboola.com/en/*
 http://www.zergnet.com/*
 http://azadify.com/*
+https://*.adtech.de
