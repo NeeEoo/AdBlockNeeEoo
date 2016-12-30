@@ -429,7 +429,6 @@ www.aftonbladet.se##[id="yui_3_15_0_2_1480758529549_1289"][class="abTeaser abIte
 www.aftonbladet.se##[class="abBoxInfeedAd"]
 www.aftonbladet.se##[class="abRelatedBox abItem rabattkodWidgetDesktop"]
 www.aftonbladet.se##[id="yui_3_15_0_2_1480327151638_1470"]
-www.aftonbladet.se##[class="abTeaser abFlowItem ab-omni-teaser"]
 www.aftonbladet.se##DIV[id="yui_3_15_0_2_1481283659983_1234"][class="abEqualRow"]
 www.aftonbladet.se##[class="abButton"][href="https://www.facebook.com/aftonbladet.noje"]
 www.aftonbladet.se##[class="abButton"][href="https://twitter.com/ABNojesbladet"]
@@ -437,8 +436,6 @@ www.aftonbladet.se##[class="abButton"][href="http://instagram.com/abnojesbladet"
 www.aftonbladet.se##[id="yui_3_15_0_2_1481286448407_1176"][class="abEqualRow"]
 www.aftonbladet.se##[class="abBlock "][href="http://bloggar.aftonbladet.se/tramsfrans/"]
 www.aftonbladet.se##A[class="abBlock "][href="http://podcast.aftonbladet.se/p/tronspelet/"]
-www.aftonbladet.se##ARTICLE[class="abItem abuPlusNo"]
-www.aftonbladet.se##ARTICLE[class="abItem"]
 www.dn.se##[class="sponsored-teaser"]
 www.dn.se##[class="ad ad--panorama"]
 www.dn.se##[class="ad ad--bottom"]
@@ -488,14 +485,44 @@ www.klart.se##[id="advertisement-middle_1"]
 www.dmi.dk##[id="sidebar-ad-wrapper"]
 www.dmi.dk##[id="sidebar-ad-wrapper_2"]
 www.dmi.dk##[id="ads"]
+pastebin.com##[id="monkey_2"]
+pastebin.com##[id="monkey"]
+www.aftonbladet.se##[class="abTeaser abFlowItem abShadowBox abTheme-infeedad"]
+www.aftonbladet.se##ARTICLE[class="abItem abuPlusNo"]
+www.aftonbladet.se##ARTICLE[class="abItem"]
+www.aftonbladet.se##[id="rabattkodWidget"][class="abTeaser abFlowItem abShadowBox rabattkodWidgetTablet"]
+www.aftonbladet.se##[class="abBoxInfeedAd "]
+www.aftonbladet.se##[id="rabattkodWidget"][class="abBoxNoPad rabattkodWidgetMobile"]
+www.gamefaqs.com##[id="taboola-below-article-thumbnails-abp2"]
+www.gamefaqs.com##[class="trc_rbox thumbnails-rr trc-content-organic "]
+www.gamefaqs.com##[class="ad ad_interstitial"]
+www.gamefaqs.com##[class="ad ad_skin_top"]
+www.gamefaqs.com##[id="taboola-below-main-column-thumbnails"]
+www.gamefaqs.com##[class="ad ad_mpu_bottom"]
+www.gamefaqs.com##[class="ad ad_mpu_plus_top"]
+www.primagames.com##[class="recommendations row taboola-below-article-thumbnails"]
+www.supercheats.com##[id="bottom_ad_728"]
+www.supercheats.com##[id="titlebar_banner"]
+www.everybodyplays.co.uk##[class="topadvert"]
+www.everybodyplays.co.uk##[class="productbox"]
+www.primagames.com##[class="story reservation  col-xs-12 col-sm-4 "]
+www.gamezplay.org##[id="HTML2"][class="widget HTML"]
+www.gamezplay.org##[class="first columns-cell"]
+www.gamezplay.org##[id="HTML7"][class="widget HTML"]
+www.gamezplay.org##[id="PlusOne1"][class="widget PlusOne"]
+www.gamezplay.org##[class="post-footer-line post-footer-line-1"]
+www.gamefaqs.com##[class="trc_rbox ab_alternating-thumbnails-b_abp-mode trc-content-hybrid "]
+www.gamefaqs.com##[class="trc_rbox ab_alternating-thumbnails-c_abp-mode trc-content-hybrid "]
+www.gamefaqs.com##[class="trc_rbox ab_alternating-thumbnails-a_abp-mode trc-content-hybrid "]
+www.spelbutiken.se##[id="newsletterform"]
 @@||$xmlhttprequest,script,domain=wired.com
 @@||condenastdigital.com^$image,domain=wired.com
 @@||pixel.parsely.com$image,domain=wired.com
 @@||www.roblox.com/develop/developer-exchange$document
 @@|https://sites.google.com/s/0B5h2l3-6XLrpQ05SVWkySklsdUE/p/0B5h2l3-6XLrpQXVPY0FKeHQwMkU/edit|$document
 @@|https://www.google.com/webdesigner/|$document
-@@|https://www.roblox.com/my/money.aspx|$document
 @@|https://www.moviestarplanet.se/|$document
+@@|https://www.roblox.com/My/Money.aspx|$document
 ||outbrain.com^
 https://px.moatads.com/pixel.gif
 www.atdmt.com
@@ -523,9 +550,9 @@ http://ads.pubmatic.com/*
 http://cdm.cursecdn.com/*
 https://www.gamepedia.com/pro/*
 http://rcm-na.amazon-adsystem.com/*
-https://popup.taboola.com/*
 http://www.webdesignerdepot.com/widget/wdd-freebie-popup.php?ref=wddpopup&show_after=2
-http://popup.taboola.com/en/*
-http://www.zergnet.com/*
 http://azadify.com/*
 https://*.adtech.de
+||zergnet.com
+http://www.supercheats.com/womfeolite/womfenvaldite/*
+||taboola.com
