@@ -551,8 +551,8 @@ http://cdm.cursecdn.com/*
 https://www.gamepedia.com/pro/*
 http://rcm-na.amazon-adsystem.com/*
 http://www.webdesignerdepot.com/widget/wdd-freebie-popup.php?ref=wddpopup&show_after=2
-http://azadify.com/*
-https://*.adtech.de
-||zergnet.com
 http://www.supercheats.com/womfeolite/womfenvaldite/*
 ||taboola.com
+||zergnet.com
+||azadify.com
+||adtech.de
