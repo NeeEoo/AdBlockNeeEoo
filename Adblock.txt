@@ -519,7 +519,6 @@ www.spelbutiken.se##[id="newsletterform"]
 @@||condenastdigital.com^$image,domain=wired.com
 @@||pixel.parsely.com$image,domain=wired.com
 @@||www.roblox.com/develop/developer-exchange$document
-@@|https://sites.google.com/s/0B5h2l3-6XLrpQ05SVWkySklsdUE/p/0B5h2l3-6XLrpQXVPY0FKeHQwMkU/edit|$document
 @@|https://www.google.com/webdesigner/|$document
 @@|https://www.moviestarplanet.se/|$document
 @@|https://www.roblox.com/My/Money.aspx|$document
