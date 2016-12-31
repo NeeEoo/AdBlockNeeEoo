@@ -436,7 +436,6 @@ m3.idg.se##[class="articleToolbar toolbar toolbarTop"]
 jasonsavard.com##[id="pageLeft"]
 jasonsavard.com##[id="pageRight"]
 jasonsavard.com##[id="pageMiddleAdWrapper"]
-@@|https://sites.google.com/s/0B5h2l3-6XLrpQ05SVWkySklsdUE/p/0B5h2l3-6XLrpQXVPY0FKeHQwMkU/edit|$document
 @@|https://mail.google.com/mail/u/0/|$document
 @@|https://www.google.com/webdesigner/|$document
 @@|https://www.roblox.com/my/money.aspx|$document
