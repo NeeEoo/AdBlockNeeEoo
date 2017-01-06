@@ -24,7 +24,6 @@ carlosjeurissen.com##DIV[class="landing__square-image"]
 carlosjeurissen.com##DIV[class="landing__bottom-image card"]
 www.yahoo.com##[class="controller Feedback Pos(r)"]
 animalcrossing.wikia.com##[id="RECIRCULATION_RAIL"]
-animalcrossing.wikia.com##[class="WikiaFooter notoolbar"]
 www.pcworld.com##DIV[id="content-recommender"][class="nolinks norewrite"]
 www.pcworld.com##[id="amazon-bottom-widget"]
 www.pcworld.com##[id="footer-subscribe"]
@@ -39,7 +38,6 @@ beebom.com##DIV[class="td-block-span12"]
 beebom.com##DIV[id="om-lwlem8whep5ixrxx"][class="charlotte-background charlotte-lwlem8whep5ixrxx charlotte-optin-visible charlotte-lightbox charlotte-case-study"]
 thea11yfiles.wordpress.com##[class="wpcnt"]
 roblox.wikia.com##[id="TOP_LEADERBOARD_AB"]
-roblox.wikia.com##[id="NATIVE_TABOOLA_ARTICLE"]
 www.sydsvenskan.se##[class="burt-native-unit teaser teaser--native"]
 www.sydsvenskan.se##[class="listbox listbox--native listbox--native--jobs"]
 www.gp.se##[class="teaser  native burt-unit"]
@@ -108,11 +106,6 @@ thestack.com##[id="text-25"]
 thestack.com##[class="related-posts rp4wp-related-posts rp4wp-related-post"]
 lifehacker.com##[class="sidebar"]
 lifehacker.com##[class="mezzanine"]
-www.imdb.com##[class="ab_widget"]
-www.imdb.com##[class="aux-content-widget-2"]
-www.imdb.com##[id="facebookWrapper"]
-www.imdb.com##[class="mini-article"]
-www.imdb.com##[class="mini-article poll-widget-rhs "]
 whatismyipaddress.com##[id="social-share"]
 funny.pho.to##[id="promotion-block"]
 www.cambiaresearch.com##[class="at4-share-outer addthis-smartlayers addthis-smartlayers-desktop"]
@@ -392,7 +385,6 @@ www.sydsvenskan.se##[class="ad ad--desktop ad--top1 ad--scaleable ad--panorama"]
 www.google.se##[id="tads"]
 www.google.se##[id="tvcap"]
 lumber-tycoon-2.wikia.com##[id="RECIRCULATION_RAIL"]
-lumber-tycoon-2.wikia.com##[id="WikiaFooter"]
 www.idg.se##[class="teaserContainer ArticleImageTopLeftWrapper"]
 www.idg.se##[class="csjobbWidget featuredJobs wide-box"]
 www.idg.se##[class="jobslist-recruiter-widget-box"]
@@ -409,15 +401,6 @@ jasonsavard.com##[id="pageLeft"]
 jasonsavard.com##[id="pageRight"]
 jasonsavard.com##[id="pageMiddleAdWrapper"]
 www.independent.co.uk##[class="adblock-modal adblock"]
-www.thelocal.se##[class="section sponzored-section"]
-www.thelocal.dk##[class="section sponzored-section"]
-www.thelocal.at##[class="section sponzored-section"]
-www.thelocal.fr##[class="section sponzored-section"]
-www.thelocal.de##[class="section sponzored-section"]
-www.thelocal.it##[class="section sponzored-section"]
-www.thelocal.no##[class="section sponzored-section"]
-www.thelocal.es##[class="section sponzored-section"]
-www.thelocal.ch##[class="section sponzored-section"]
 www.telegraph.co.uk##[class="list-of-entities__item   "]
 www.flightradar24.com##[id="responsiveBottomPanel"][class="desktop"]
 www.mediafire.com##[class="bottomAdLeaderboard"]
@@ -471,7 +454,6 @@ www.dplay.se##[class="fusion-modal-bg"]
 www.tv.nu##[class="grid__item portable-content-hide [ js-ad-container js-desktop-panorama2 ]"]
 www.tv.nu##[class="grid__item portable-content-hide remove-trailing-schedule-hr [ js-ad-container js-desktop-panorama3 ]"]
 www.tv.nu##[class="grid__item portable-content-hide remove-trailing-schedule-hr [ js-ad-container js-desktop-panorama4 ]"]
-agar.io##[id="advertisement"]
 vanar.io##[class="frame-data"]
 wings.io##[id="mpu-top-fif"]
 www.prisjakt.nu##[class="adbox"]
@@ -493,11 +475,8 @@ www.aftonbladet.se##ARTICLE[class="abItem"]
 www.aftonbladet.se##[id="rabattkodWidget"][class="abTeaser abFlowItem abShadowBox rabattkodWidgetTablet"]
 www.aftonbladet.se##[class="abBoxInfeedAd "]
 www.aftonbladet.se##[id="rabattkodWidget"][class="abBoxNoPad rabattkodWidgetMobile"]
-www.gamefaqs.com##[id="taboola-below-article-thumbnails-abp2"]
-www.gamefaqs.com##[class="trc_rbox thumbnails-rr trc-content-organic "]
 www.gamefaqs.com##[class="ad ad_interstitial"]
 www.gamefaqs.com##[class="ad ad_skin_top"]
-www.gamefaqs.com##[id="taboola-below-main-column-thumbnails"]
 www.gamefaqs.com##[class="ad ad_mpu_bottom"]
 www.gamefaqs.com##[class="ad ad_mpu_plus_top"]
 www.primagames.com##[class="recommendations row taboola-below-article-thumbnails"]
@@ -511,10 +490,74 @@ www.gamezplay.org##[class="first columns-cell"]
 www.gamezplay.org##[id="HTML7"][class="widget HTML"]
 www.gamezplay.org##[id="PlusOne1"][class="widget PlusOne"]
 www.gamezplay.org##[class="post-footer-line post-footer-line-1"]
-www.gamefaqs.com##[class="trc_rbox ab_alternating-thumbnails-b_abp-mode trc-content-hybrid "]
-www.gamefaqs.com##[class="trc_rbox ab_alternating-thumbnails-c_abp-mode trc-content-hybrid "]
-www.gamefaqs.com##[class="trc_rbox ab_alternating-thumbnails-a_abp-mode trc-content-hybrid "]
 www.spelbutiken.se##[id="newsletterform"]
+www.imdb.com##[class="ab_zergnet"]
+textfac.es##SPAN[class="muted"]
+www.jvgs.net##[id="srch"][class="blogs"]
+www.jvgs.net##[class="fbbox"]
+www.gamedynamo.com##[class="ad1"]
+www.gamedynamo.com##IFRAME[src="http://www.youtube.com/subscribe_widget?p=gamedynamo"]
+www.gamedynamo.com##[id="___plus_0"]
+www.gamedynamo.com##[class="containerbottom_n3ds"]
+www.gamedynamo.com##[class="ad2"]
+www.gamedynamo.com##[class="containerbottom"]
+www.gamedynamo.com##IFRAME[src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FGameDynamo&width=260&height=258&colorscheme=light&show_faces=true&header=false&stream=false&show_border=false&appId=238347159544050"]
+www.gamedynamo.com##[class="twitter-timeline"]
+www.gamedynamo.com##[src="http://www.gamedynamo.com/images/web/en/octosponsor.gif"]
+gbatemp.net##[id="featured_container"]
+www.telegraph.co.uk##[src="http://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2FTelegraphents&width&height=258&colorscheme=light&show_faces=true&header=false&stream=false&show_border=true"]
+www.telegraph.co.uk##[id="tmg-related-links"]
+www.telegraph.co.uk##[class="gutterUnder noSummaryTopBorder"]
+www.telegraph.co.uk##[class="summaryMedium  gutterUnder  tps5 top-stories05"]
+www.telegraph.co.uk##[class="summaryMedium gutterUnder"]
+www.emuparadise.me##div[class="box"][style="background-color:#0E2631;padding:5px"]
+fuska.se##[class="col-sm-3 right_col text-center"]
+fuska.se##[id="special-mover"][class="col-xs-12 text-center"]
+www.sfgate.com##[class="core-promo sponsoredarticles sponsor"]
+www.theatlantic.com##[class="ad-wrapper"]
+www.newgrounds.com##[class="ng-ad-container-300-250"]
+www.nbc.com##[class="mps-ad__inner"]
+css-tricks.com##[class="module module-media-temple"]
+www.touchtapplay.com##[href="www.joinonelove.org/thatsnotlove"]
+vloggergoviralgame.wikia.com##[class="WikiaFooter notoolbar"]
+agar.io##[id="advertisement"]
+agar.io##[class="agario-promo-container"]
+agar.io##[id="rightPanel"]
+www.thelocal.ch,www.thelocal.es,www.thelocal.no,www.thelocal.de,www.thelocal.fr,www.thelocal.at,www.thelocal.dk,www.thelocal.se,www.thelocal.it##[class="ad-leaderboard-middle ad-container"]
+##[class="ad-leaderboard-middlead-container"]
+www.thelocal.ch,www.thelocal.es,www.thelocal.it,www.thelocal.no,www.thelocal.de,www.thelocal.fr,www.thelocal.at,www.thelocal.dk,www.thelocal.se##[class="ad-leaderboard-middlead-container"]
+socialblade.com##[class="section-leftside"]
+minecraft.novaskin.me##[id="bottom-a"]
+minecraft.novaskin.me##[id="ads-right-2"]
+minecraft.novaskin.me##[id="filter-section"]
+minecraft.novaskin.me##[class="fb-page fb_iframe_widget"]
+minecraft.novaskin.me##[id="twitter-widget-0"]
+minecraft.novaskin.me##DIV[style="float:right;clear:left;width:344px;margin-right:6%"]
+minecraft.novaskin.me##[class="col-xs-8 col-md-4 text-center ads-place"]
+minecraft.novaskin.me##DIV[class="col-xs-12"][style="padding: 0 5px"]
+socialblade.com##DIV[style="width: 860px; height: 90px; padding: 20px; background: #fff; float: left; margin: 0px 0px 20px 0px;"]
+socialblade.com##DIV[style="width: 300px; height: 250px; padding: 20px; background: #fff; margin-bottom: 20px;"]
+socialblade.com##[class="section-long-vert-container"]
+socialblade.com##DIV[style="width: 860px; height: 90px; padding: 20px; background: #fff; float: left; margin: 0px 0px;"]
+socialblade.com##[class="sidebar-module"][style="height: 250px;"]
+socialblade.com##DIV[style="width: 840px; height: 90px; padding: 20px; background: #fff; float: left; margin: 10px 0px 0px 0px;"]
+www.gameinformer.com##[id="recommended-articles"]
+realtimesubcount.com##[class="row content white grey-text text-darken-3 z-depth-1 valign-wrapper"]
+www.needcoolshoes.com##[class="this-is-an-ad"]
+www.minecraftskins.net##[class="awrapper top"]
+www.minecraftskins.net##[class="ead"]
+animalcrossing.wikia.com##[id="WikiaFooter"][class="WikiaFooter notoolbar"]
+minecraft.gamepedia.com##[id="atflb"]
+jsfiddle.net##[id="keep-us-running"]
+www.danstools.com,www.url-encode-decode.com,www.regextester.com,www.unixtimestamp.com,www.htaccessredirect.net,www.files-conversion.com,www.cleancss.com,www.cssfontstack.com,www.hexcolortool.com,www.md5hashgenerator.com,spritegen.website-performance.org,www.favicon-generator.org,www.website-performance.org##[id="sharebox"]
+www.danstools.com,www.regextester.com,www.unixtimestamp.com,www.htaccessredirect.net,www.files-conversion.com,www.url-encode-decode.com,www.cssfontstack.com,www.hexcolortool.com,www.md5hashgenerator.com,spritegen.website-performance.org,www.cleancss.com,www.favicon-generator.org,www.website-performance.org##DIV[style="float: left; margin-top: 10px; margin: 30px;"]
+closure-compiler.appspot.com##[id="plusone-div"]
+www.cnet.com##[class="relatedArticles"]
+www.sweclockers.com##[class="ad adPanorama adPanorama-1"]
+www.sweclockers.com##[class="banner"]
+www.sweclockers.com##[class="prisjaktPopular"]
+css-tricks.com##[class="module module-padded module-jobs"]
+css-tricks.com##[class="module module-padded module-media-temple"]
 @@||$xmlhttprequest,script,domain=wired.com
 @@||condenastdigital.com^$image,domain=wired.com
 @@||pixel.parsely.com$image,domain=wired.com
@@ -522,8 +565,6 @@ www.spelbutiken.se##[id="newsletterform"]
 @@|https://www.google.com/webdesigner/|$document
 @@|https://www.moviestarplanet.se/|$document
 @@|https://www.roblox.com/My/Money.aspx|$document
-||outbrain.com^
-https://px.moatads.com/pixel.gif
 www.atdmt.com
 www.doubleclick.net
 doubleclick.net
@@ -544,14 +585,18 @@ media.fastclick.net
 pixel.quantserve.com
 tribalfusion.com
 www.googleadservices.com
-https://cointent.com/*
-http://ads.pubmatic.com/*
-http://cdm.cursecdn.com/*
-https://www.gamepedia.com/pro/*
-http://rcm-na.amazon-adsystem.com/*
-http://www.webdesignerdepot.com/widget/wdd-freebie-popup.php?ref=wddpopup&show_after=2
-http://www.supercheats.com/womfeolite/womfenvaldite/*
 ||taboola.com
 ||zergnet.com
 ||azadify.com
 ||adtech.de
+ads.pubmatic.com/*
+cdm.cursecdn.com/*
+www.gamepedia.com/pro/*
+rcm-na.amazon-adsystem.com/*
+www.webdesignerdepot.com/widget/wdd-freebie-popup.php?ref=wddpopup&show_after=2
+www.supercheats.com/womfeolite/womfenvaldite/*
+www.antiadblockscript.com/js/LbT2r3L40o3m.js
+||outbrain.com
+px.moatads.com/pixel.gif
+||cointent.com
+||reviveads.com
