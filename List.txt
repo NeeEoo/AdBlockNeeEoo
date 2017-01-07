@@ -1,5 +1,7 @@
+[Adblock Plus 2.0]
 ! Title: NeeEooAdBlockingList
 ! Expires: 1 days
+! Version: 1
 www.minecraftforum.net##SECTION[class="ad-container"]
 www.minecraftforum.net##DIV[class="ad-placement ad-main-med-rect "]
 digilär.se##DIV[class="l-header-tools"]
