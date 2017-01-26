@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: NeeEooAdBlockingList
 ! Expires: 1 days
-! Version: 5
+! Version: 6
 www.cnet.com##[class="ad-leader-top"]
 www.foxnews.com##[id="sponsored-stories"]
 www.foxnews.com##[class="sponsor-partner mod-25"]
