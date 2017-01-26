@@ -780,9 +780,8 @@ www.hongkiat.com##[class="promote-unit promote-unit--sidebar-bottom dfp display-
 @@||pixel.parsely.com$image,domain=wired.com
 @@||www.roblox.com/develop/developer-exchange$document
 @@||static.telegraph.co.uk/develop/aem/ads/ads.js
-www.atdmt.com
-www.doubleclick.net
-doubleclick.net
+||atdmt.com
+||doubleclick.net
 ad.nozonedata.com
 ads.pointroll.com
 us.ard.yahoo.com
@@ -798,8 +797,8 @@ cdn.fastclick.net
 cdn5.tribalfusion.com
 media.fastclick.net
 pixel.quantserve.com
-tribalfusion.com
-www.googleadservices.com
+||tribalfusion.com
+||googleadservices.com
 ||taboola.com
 ||zergnet.com
 ||azadify.com
