@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: NeeEooAdBlockingList
 ! Expires: 1 days
-! Version: 6
+! Version: 7
 wigflip.com##DIV[style="text-align: center; padding: 20px; margin-left: -29px;"]
 wigflip.com##DIV[style="font-size:10px;"]
 www.javascripting.com##[id="salsita-about"]
