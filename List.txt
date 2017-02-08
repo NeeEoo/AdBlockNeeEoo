@@ -990,7 +990,8 @@ cdm.cursecdn.com/*
 www.gamepedia.com/pro/*
 rcm-na.amazon-adsystem.com/*
 www.webdesignerdepot.com/widget/wdd-freebie-popup.php?ref=wddpopup&show_after=2
-www.supercheats.com/womfeolite/womfenvaldite/*
+||supercheats.com/womfeolite/womfenvaldite/*
+||supercheats.com/fopfeolite/fopfenvaldite/*
 www.antiadblockscript.com/js/LbT2r3L40o3m.js
 ||outbrain.com
 px.moatads.com/pixel.gif
