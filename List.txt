@@ -1,7 +1,24 @@
 [Adblock Plus 2.0]
 ! Title: NeeEooAdBlockingList
 ! Expires: 1 days
-! Version: 7
+! Version: 8
+www.danstools.com,www.url-encode-decode.com,www.regextester.com,www.unixtimestamp.com,www.htaccessredirect.net,www.files-conversion.com,www.cleancss.com,www.cssfontstack.com,www.hexcolortool.com,www.md5hashgenerator.com,spritegen.website-performance.org,www.favicon-generator.org,www.website-performance.org##.box-content > center
+www.danstools.com,www.url-encode-decode.com,www.regextester.com,www.unixtimestamp.com,www.htaccessredirect.net,www.files-conversion.com,www.cleancss.com,www.cssfontstack.com,www.hexcolortool.com,www.md5hashgenerator.com,spritegen.website-performance.org,www.favicon-generator.org,www.website-performance.org###dashboard_tabs > center
+www.htaccessredirect.net##form > .row:nth-of-type(1)
+winaero.com##[id="text-2"][class="widget widget_text"]
+www.dedoimedo.com##[class="divtable11_ad_small"]
+spritegen.website-performance.org,www.md5hashgenerator.com##.box-content > .row
+www.hexcolortool.com##.box:nth-of-type(2) > .box-content > .row
+www.danstools.com##.col-md-3 > .box
+www.unixtimestamp.com###content > center:nth-of-type(1)
+www.danstools.com##section > .row
+www.cleancss.com,www.files-conversion.com,www.url-encode-decode.com,www.danstools.com##.box-content > .row:nth-of-type(1)
+www.danstools.com##.box-content > .row:nth-of-type(1)
+@@||www.cleancss.com/binary-converter/$document
+@@||www.cleancss.com/how-many-bytes/$document
+@@||www.mediafire.com/$document
+@@||mailtrack.io
+@@||www.cleancss.com##.box>.box-content>.row
 www.ibtimes.co.uk##[class="relatedArticle"]
 www.textfixer.com##[class="admbottom2"]
 www.textfixer.com##[class="admtop2"]
@@ -305,8 +322,6 @@ www.yahoo.com##[id="mrt-node-tgtm-Col2-7-DiscussionList"]
 www.buzzfeed.com##[id="new-header-hot-nav"]
 www.buzzfeed.com##[class="btn--buzz"]
 robloxsuperbombsurvival.wikia.com##FOOTER[id="WikiaFooter"][class="WikiaFooter notoolbar"]
-www.supercheats.com##[class="p0e2k0yj"]
-www.supercheats.com##[class="x1v4h8"]
 www.supercheats.com##OIO
 www.supercheats.com##[class="article hand"]
 www.roblox.com##[class="abp in-game-search-ad dynamic-ad ad-order-even"]
