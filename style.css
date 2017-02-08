@@ -1,16 +1,1 @@
-.content {
-	width: 600px;
-	margin-right: auto;
-	margin-left: auto;
-	text-align:center;
-	margin-top:20px;
-}
-.button {
-  font-size: 16px;
-  border: 2px solid #DC143C;
-  background-color: #fff;
-  color: #DC143C;
-  padding: 8px 16px;
-  text-decoration: none;
-  cursor: pointer;
-}
+.content{width:600px;margin-right:auto;margin-left:auto;text-align:center;margin-top:20px}.button{font-size:16px;border:2px solid #DC143C;background-color:#fff;color:#DC143C;padding:8px 16px;text-decoration:none;cursor:pointer}
