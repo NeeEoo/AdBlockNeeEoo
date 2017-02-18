@@ -2,6 +2,60 @@
 ! Title: NeeEooAdBlockingList
 ! Expires: 1 days
 ! Version: 8
+www.howtogeek.com###gysdggjfxsgiwhg
+www.howtogeek.com###eaqmnkebjdidnms
+www.howtogeek.com###megmreceshmbork
+www.howtogeek.com###jzlvakfwljdvupi
+www.howtogeek.com###pkcoivibicadwng
+www.howtogeek.com###wldsvybsunkpqrb
+www.howtogeek.com###wixdwowvsqukgys
+www.howtogeek.com###okwuxzbdpngfvqn
+www.howtogeek.com###zrndkmhfayngtee
+www.howtogeek.com###gaupzwvotghbfpj
+www.howtogeek.com###nnnbeaatzzdzlku
+www.howtogeek.com###fjpxpromflauwnb
+www.howtogeek.com###gyewefygjponxdb
+www.howtogeek.com###xfthwqprcdekygm
+www.howtogeek.com###kzgwfpjxhnhwfyu
+www.howtogeek.com###jguupxapwbdtsbg
+www.howtogeek.com###dwgirchrmbacpif
+www.howtogeek.com###qzjdsastnxjaztw
+www.howtogeek.com###ahahuupbpdpbkwl
+www.howtogeek.com###zrvcgwtammygdzb
+www.howtogeek.com###bmvyyaljfjujuuh
+www.howtogeek.com###ateaqdcbfaikmmz
+www.howtogeek.com###bvfxuuuhzktqzpk
+www.howtogeek.com###mbbelzyqzkaprdq
+www.howtogeek.com###arrkgxczdqhuqwu
+www.howtogeek.com###tozltlezuncahyg
+www.howtogeek.com###wougmaminkytstj
+www.howtogeek.com###kozbwpxkcciexum
+www.sevenforums.com##[class="media400 chillad"]
+arstechnica.com##[class="pullbox sidebar story-sidebar right"]
+arstechnica.com##[class="ad ad_crown"]
+www.kamerabild.se##[class="panel-pane pane-panels-mini pane-social-buttons-top social-buttons social-top"]
+www.pcmag.com##[class="related-articles"]
+www.howtogeek.com##[id="ebtmdficefoiaec"]
+www.howtogeek.com##[id="vltkjmarwnlgcdm"]
+www.howtogeek.com##[id="dsmftdpfndfjmgw"]
+www.howtogeek.com##[id="sirsjluctjccknw"]
+www.howtogeek.com##[id="mmpskplldixzrnc"]
+www.howtogeek.com##[id="hnxdpcejpiayoat"]
+www.computerstepbystep.com##[id="adsense_1174"]
+www.computerstepbystep.com##[id="adsense_1176"]
+www.computerstepbystep.com##[id="adsense_1175"]
+www.howtogeek.com##[id="lhtiyjjyvpshcov"]
+jscompress.com##[class="ad bottom"]
+jscompress.com##[class="ad top"]
+test.jsonlint.com##[class="ad"]
+lint.me##ASIDE
+www.whatismyip.com##[class="advertisement"]
+www.whatismyip.com##[class="c1-ad"]
+www.whatismyip.com##[class="c2-ad"]
+www.tenforums.com##[class="postbitlegacy postbitim postcontainer chill"]
+msjiggly93.deviantart.com##[class="ad-container small"]
+www.hugestreet.info##[class="pc_block_active"]
+www.alphagamers.net##LI[class="sectionMain message     "][data-author="Ads Master"]
 getemoji.com##[class="text-center"]
 getemoji.com##[id="amzn_assoc_ad_div_adunit0_2"]
 mcstacker.bimbimma.com##[href="http://frickinzombies.io"]
