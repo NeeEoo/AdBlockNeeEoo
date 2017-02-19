@@ -1,7 +1,22 @@
 [Adblock Plus 2.0]
 ! Title: NeeEooAdBlockingList
 ! Expires: 1 days
-! Version: 9
+! Version: 10
+www.cheatcc.com##[id="__kx_ad_274"]
+www.cheatcodes.com##[id="ad_atf_970"]
+www.cheatcodes.com##[class="ad_btf_728"]
+www.cheatcodes.com##[id="ad_right_col_top"]
+www.fz.se##[id="rightOutsideAd"]
+www.nordichardware.se##.td_block_template_1.td-pb-border-top.td_uid_72_58a88ca24e666_rand.td_block_slide.td_block_wrap
+www.fz.se##.advertisementFixedPanorama.advertisementPanorama
+||roblox.com/user-sponsorship/
+||ruamupr.com/advertising.js
+||911proxy.com/css/js/responsive-ad-design.js$domain=911proxy.com
+||fusion.bonnieradnetwork.se$domain=www.sydsvenskan.se
+||sifomedia.citypaketet.se$domain=sydsvenskan.se
+||mhstream1-s.riksdagen.se/idle
+||mhstream2-s.riksdagen.se/idle
+||analytics.codigo.se
 www.howtogeek.com###gysdggjfxsgiwhg
 www.howtogeek.com###eaqmnkebjdidnms
 www.howtogeek.com###megmreceshmbork
