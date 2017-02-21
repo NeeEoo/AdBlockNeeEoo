@@ -1,7 +1,47 @@
 [Adblock Plus 2.0]
 ! Title: NeeEooAdBlockingList
 ! Expires: 1 days
-! Version: 10
+! Version: 11
+wikia.com###RECIRCULATION_RAIL
+wikia.com###WikiaFooter[class="WikiaFooter notoolbar"]
+wikia.com##.fan-feed-rail
+stackexchange.com###hot-network-questions
+www.speedtest.net##.no-shadow.ad-vertical-tower.ad-vertical-container
+stackoverflow.com###hot-network-questions
+www.howtogeek.com##[href="http://macpaw.7eer.net/c/156932/66541/1733?subId1=banner&subId2=231496"]
+www.howtogeek.com##[href="http://macpaw.7eer.net/c/156932/66541/1733?subId1=banner&subId2=211496"]
+www.howtogeek.com##[id="syykflrrxqoawqt"]
+www.howtogeek.com##[id="kozbwpxkcciexum"]
+www.howtogeek.com##[src="https://www.howtogeek.com/wp-content/uploads/2016/mp300.png.pagespeed.ce.hnEJ4qhMJ3.png"]
+www.howtogeek.com##[class="overlay-bg"]
+www.sounds-resource.com##[id="subscribe"]
+www.spriters-resource.com##[id="subscribe"]
+www.models-resource.com##[id="subscribe"]
+www.w3schools.com##[id="ezoic-pub-ad-placeholder-104"]
+www.w3schools.com##[id="ezoic-pub-ad-placeholder-105"]
+www.w3schools.com##[id="stickyadcontainer"]
+www.w3schools.com##[id="stickypos"]
+www.w3schools.com##[id="ezoic-pub-ad-placeholder-107"]
+www.w3schools.com##[id="ezoic-pub-ad-placeholder-106"]
+www.w3schools.com##[id="ezoic-pub-ad-placeholder-103"]
+templates.mailchimp.com##[class="over-large-shim pt16"]
+www.svgminify.com##[id="footer"]
+www.speedtest.net##[class="ad-vertical-left"]
+www.speedtest.net##[class="dfp-ab-leaderboard"]
+www.speedtest.net##[class="ad-vertical-right"]
+www.pingtest.net##[class="container smallspace"]
+www.spray.se##[class="block block-sprayads"]
+www.spray.se##[id="featured_aside"]
+www.spray.se##[id="block-block-48"][class="block block-block"]
+www.spray.se##[id="side_banners"]
+www.spray.se##[id="top_banner"]
+www.spray.se##[id="left_banner"]
+supportforums.cisco.com##[class="panel-pane pane-block pane-block-181"]
+www.solvusoft.com##[class="fileviewpro"]
+javascript-minifier.com##[id="ads"][class="col-md-8 c"]
+www.sitepoint.com##[id="ebookbundlerefresh-modal"][class="reveal-modal open"]
+www.sitepoint.com##[class="reveal-modal-bg"]
+www.file-extensions.org##[id="socialbuttonsbox"]
 www.cheatcc.com##[id="__kx_ad_274"]
 www.cheatcodes.com##[id="ad_atf_970"]
 www.cheatcodes.com##[class="ad_btf_728"]
