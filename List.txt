@@ -1,7 +1,70 @@
 [Adblock Plus 2.0]
 ! Title: NeeEooAdBlockingList
 ! Expires: 1 days
-! Version: 11
+! Version: 12
+||aftonbladet.se/rabattkod/
+||www.google-analytics.com^$important
+||gfx.aftonbladet-cdn.se/template/ver1-0/gfx/trans_1x1.gif
+superuser.com###hot-network-questions
+www.impressivewebs.com##.content-left > .update-box
+||www.expressen.se/img/megamenu/annonswebb.jpg$domain=www.expressen.se
+www.expressen.se##.megamenu-container
+www.expressen.se##img[src="/Themes/StormSe/VW_vader_310x23_leverans.jpg"]
+www.blocket.se###li_panorama
+||www.blocket.com/img/transparent.gif$domain=www.blocket.se
+||www.blocket.se/img/transparent.gif$domain=www.blocket.se
+||www.blocket.com/safeframe.html$subdocument
+||c.eacla.com/showadv2.php
+login.yahoo.com###mbr-login-ad-container
+mg.mail.yahoo.com###slot_TL1
+lifehacker.com##.js_ad-dynamic
+||twimgs.com/infoweek/spacer.gif$domain=www.networkcomputing.com
+||polo.feathr.co/analytics/crumb
+||polo.feathr.co/analytics$domain=www.networkcomputing.com
+||economictimes.indiatimes.com/adbanner_ggl$domain=indiatimes.com,important
+||ibeat.indiatimes.com/js/pgtrackingV8.js$first-party,important
+||ad.crwdcntrl.net^$important
+||ade.clmbtech.com^$script,domain=indiatimes.com,important
+||b.scorecardresearch.com/beacon.js$domain=indiatimes.com,important
+||timestrends.indiatimes.com/timestrend_v13.js$domain=indiatimes.com,important
+economictimes.indiatimes.com##.article_container:nth-of-type(10) > .flt > .newsListContainer > .rtAdContainer
+||economictimes.indiatimes.com/js_adoverride.cms$domain=indiatimes.com,important
+||img.etimg.com/photo/57271655.cms$important
+www.gearfire.net##p[style="float: right;margin: 4px;"]
+www.urlvoid.com##SMALL
+www.techsupportalert.com##[class="at-panel gpanel panel-display three-3x33 clearfix"]
+speckyboy.com##[id="widget-125ads"]
+www.any-video-converter.com##[class="rollTopfone"]
+forums.creativecow.net##[class="zIABlock zIABlock7"]
+html5doctor.com##[class="mod ads group"]
+stackoverflow.com##[class="newsletter-anon"]
+www.sitepoint.com##[id="jsmodal15feb-modal"][class="reveal-modal open"]
+stackoverflow.com##[id="newsletter-ad"]
+www.sitepoint.com##[id="basetheme-modal"][class="reveal-modal open"]
+forums.androidcentral.com##[id="navbar_notice_61"][class="restore"]
+forums.androidcentral.com##[id="yui-gen0"][class="postbitlegacy postbitim postcontainer old noskimwords dfp-wrap"]
+www.aftonbladet.se##[class="abPanorama abSticky"]
+www.aftonbladet.se##[class="abPanorama"]
+www.metro.se##[class="o-advert o-advert--fixed-size o-advert--box-desktop"]
+www.metro.se##[class="o-preview m-teaser  o-preview--ad"]
+www.metro.se##[class="o-advert o-advert--fixed-size"]
+www.sydsvenskan.se##[class="ad ad--desktop ad--bottom1 ad--scaleable"]
+www.gameskinny.com##[class="cta-news flip-container"]
+www.gameskinny.com##[class="ad_universal_ondemand lazy-hidden adloaded universal"]
+www.forbes.com##[id="top-fbs-ad-article-sticky-0"]
+www.forbes.com##[id="top-fbs-ad-article-sticky-1"]
+www.forbes.com##[id="top-fbs-ad-article-sticky-2"]
+www.forbes.com##[class="top-fbs-ad-sticky preload-hidden ng-scope ng-isolate-scope"]
+www.forbes.com##[class="fbs-ad-rail clearfix"]
+www.forbes.com##[class="related-ads-container ng-scope"]
+www.forbes.com##[dynamic-ad-unit="spon-logo"]
+www.forbes.com##[dynamic-ad-unit]
+www.forbes.com##[class="rec-ad"]
+www.forbes.com##[id="topx"][class="leaderboard mid_page"]
+www.techrepublic.com##NEWSELEMENT
+www.networkcomputing.com##[class="block block-block block-block-17 clearfix"]
+economictimes.indiatimes.com##[class="rtAdContainer"]
+forums.techguy.org##[class="message"]
 wikia.com###RECIRCULATION_RAIL
 wikia.com###WikiaFooter[class="WikiaFooter notoolbar"]
 wikia.com##.fan-feed-rail
