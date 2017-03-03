@@ -1,7 +1,87 @@
 [Adblock Plus 2.0]
 ! Title: NeeEooAdBlockingList
 ! Expires: 1 days
-! Version: 12
+! Version: 13
+@@||cfl.dropboxstatic.com/static/images/growth/exp_invite_contacts_facebook.png$domain=dropbox.com
+~www.dropbox.com##.facebook-button
+||jasonsavard.com/images/promos$domain=jasonsavard.com
+~www.dropbox.com###twitter_follow
+m.sweclockers.com##[id="topBanner"][class="banner"]
+www.iplocation.net##.col_6_of_12.col:nth-of-type(1)
+www.iplocation.net##div[style="padding-left: 6px;"]
+||widget.cdn.citygate.se/lokus/jobb.html$domain=www.smp.se
+||widget.cdn.citygate.se/lokus$domain=www.smp.se
+||api.citygate.se/common/toppjobbs$domain=www.smp.se
+||cdn.cxpublic.com/Matchad_Combo_SMP_Filler_300x300.html$domain=smp.se
+www.smp.se##[class="art-box h-entry art-base teaser teaser-default   article-native section-native article-native has-vignette   has-image"]
+www.smp.se##[id="jobb-frame"]
+www.smp.se##[id="gm-marknadsguiden-2"]
+www.smp.se##[id="float-ad-holder"]
+www.smp.se##[class="wp-sidebar header-sidebar"]
+www.smp.se##[class="row   hidden-xs "]
+www.smp.se##[class="widget GmAdWidget"]
+www.smp.se##[class="widget content_recommendation"]
+~ifttt.com##img[alt="Instagram"]
+~ifttt.com##img[alt="Pinterest"]
+~ifttt.com##img[alt="LinkedIn"]
+~ifttt.com##img[title="LinkedIn"]
+~ifttt.com##img[title="Twitter"]
+~ifttt.com##img[title="Facebook"]
+~ifttt.com##img[alt="Facebook"]
+~ifttt.com##img[alt="Twitter"]
+~ifttt.com##img[alt="Flickr"]
+~ifttt.com##img[title="YouTube"]
+www.topwebhosts.org##[class="rectangle"]
+www.convertfiles.com##[class="advertisement_box"]
+www.convertfiles.com##[id="advertisement_section"]
+ask-leo.com##[class="adblock1"]
+www.informationweek.com##.ad-imu
+www.timeatlas.com###text-9[class="widget widget_text"]
+www.timeatlas.com###text-3[class="widget widget_text"]
+www.timeatlas.com###text-10[class="widget widget_text"]
+www.timeatlas.com###text-2[class="widget widget_text"]
+www.dummies.com##.small.related-book
+www.symplebyte.com###block-block-7
+www.symplebyte.com##.even.field-item > .nodeimage
+www.makeuseof.com##small[style="color:LightGray"]
+||spillvacation.com$domain=thewindowsclub.com
+||www.klart.se/panel2.research-int.se$domain=www.klart.se
+||s.adrecord.com
+||welly.fm/sites/all/modules/custom/welly_ad
+||cdn.cxpublic.com/Matchad_Combo_*_Filler_300x300.html
+||widget.cdn.citygate.se/lokus
+||sifomedia.*.se
+||d3pqii7dgfs1jn.cloudfront.net/wp-content/plugins/GotaMedia/Widgets/Marknadsguiden
+||d6jf7ok6u1qis.cloudfront.net/imengine/image.php?imgsrc=*webimages.citygate.se*
+||d3pqii7dgfs1jn.cloudfront.net/wp-content/themes/gmbasetheme/assets/images/familyads
+||d6jf7ok6u1qis.cloudfront.net/imengine/image.php?*clientimages.lokus.se*
+||d6jf7ok6u1qis.cloudfront.net/imengine/image.php?*logo.citygate.se*
+||www.skd.se/app/themes/skd/js/sponsrat-frequency.js$domain=www.skd.se
+||youtube.com/api/stats/watchtime?$image,domain=youtube.com,important
+||s.youtube.com/api/stats/playback?$image,important
+||www.dropbox.com/log/ux_analytics$domain=www.dropbox.com
+serverfault.com###hot-network-questions
+askubuntu.com###hot-network-questions
+stackapps.com###hot-network-questions
+||secure.accessify.com/track.php$domain=www.accessify.com
+www.expertreviews.co.uk##[id="digiteka_wrapper"]
+www.raymond.cc##[id="text-7"][class="widget widget_text"]
+www.bt.se##[id="gm-marknadsguiden-2"]
+www.bt.se##[id="gm-family-ads-2"]
+www.bt.se##[id="gm-family-ads-3"]
+www.bt.se##[id="gm-family-ads-4"]
+www.bt.se##[class="gm_headline__title  section-family"]
+www.bt.se##[class="widget content_recommendation"]
+www.skd.se##[class="skd-crsl-wrap"]
+www.skd.se##[class="widget module tabbedWidget advert-widget"]
+portableapps.com##[id="block-block-39"]
+www.businesstoday.in##[id="zedotopnavads1"]
+www.businesstoday.in##[class="ad"]
+www.businesstoday.in##[id="taboola-organic-below-article-thumbnails"]
+www.news24.com##[id="featuredDiv"]
+www.thenews.com.pk##[class="ads"]
+www.express.co.uk##[class="slideshowadvert"]
+www.express.co.uk##[class="galleryShell cf"]
 ||aftonbladet.se/rabattkod/
 ||www.google-analytics.com^$important
 ||gfx.aftonbladet-cdn.se/template/ver1-0/gfx/trans_1x1.gif
