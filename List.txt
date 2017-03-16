@@ -1,7 +1,61 @@
 [Adblock Plus 2.0]
 ! Title: NeeEooAdBlockingList
 ! Expires: 1 days
-! Version: 13
+! Version: 14
+~www.roblox.com##a[title="Twitter"]
+~www.roblox.com##a[title="Facebook"]
+slither.io###cstx
+@@||cdm.cursecdn.com/js/splix$domain=splix.io
+wormax.io###adContainerRight
+wormax.io###adContainerLeft
+www.rootupdate.com##div[style="float:left;margin:10px 10px 10px 0;"]
+www.rootupdate.com##div[style="float:none;margin:10px 0 10px 0;text-align:center;"]
+deobfuscatejavascript.com##div[style="float: right; width:300px; height:600px; border:1px black solid; display:block;"]
+@@||piranh.io/ads.js$domain=piranh.io
+germs.io##.tile:nth-of-type(4)
+wings.io##.form-group > center:nth-of-type(1)
+slain.io###ads
+www.samlogic.net##font[size="1"][color="#C0C0C0"]
+mobiltorg.se##.bg:nth-of-type(3)
+||www.infart.se/bild/annonsh.gif$domain=mobiltorg.se
+windowssecrets.com##li:nth-of-type(2) > .smaller.block
+||windowssecrets.com/forums/images/lounge/misc/adv.gif
+||windowssecrets.com/wp-content/uploads/2016/11/WS-200x200_2.gif
+@@||subs-scandi.secure.footprint.net$domain=viaplay.se
+@@||scandi-vod-dash.secure.footprint.net$xmlhttprequest,domain=viaplay.se
+fiddle.jshell.net###keep-us-running
+codereview.stackexchange.com##[id^="adzerk"]
+||cdn.nitrome.com/images/anims/nitrome_frontpage_banner_no_ads.*.swf$domain=www.nitrome.com
+||cdn.nitrome.com/styles/images/ad_vert_description.png$domain=www.nitrome.com
+||cdn.nitrome.com/styles/images/advertised_games.png$domain=www.nitrome.com
+||cdn.nitrome.com/styles/images/ad_description.png$domain=www.nitrome.com
+www.nitrome.com###mu_3_container
+www.nitrome.com###new_elem_shadow_2_game
+www.nitrome.com###comment_structure
+www.androidpit.com##.article-engagement-nead.article-engagement-adm.article-engagement
+www.driverless.id,www.invisiverse.com,gadgethacks.com,reality.news##.rightbox.whtaph
+www.driverless.id,www.invisiverse.com,gadgethacks.com,reality.news##.leftbox.whtaph
+makeappicon.com###banner
+makeappicon.com###apps
+css-tricks.com##[class="end-of-article-ads"]
+css-tricks.com##[class="article-card module module-articlearticle module-sponsored"]
+www.envioushost.com##[id="text-7"][class="widget widget_text"]
+www.envioushost.com##[id="text-9"][class="widget widget_text"]
+www.flaticon.com##LI[class="ads ads-icon-list ads-first"]
+www.flaticon.com##[id="banner-icon-list"][class="ads ads-icon-list ads-first show"]
+www.flaticon.com##[class="related fi-not-premium"]
+www.flaticon.com##[class="ads ads-first show last-ads"]
+bloble.io##[id="smallAdContainer"]
+www.base64decode.org##[class="banner_right"]
+www.alphr.com##[class="field field-name-field-see-related field-type-node-reference field-label-above"]
+www.androidpit.com##[id="sticky-share-bar"][class="sticky-share-bar sticky-element-fixed-footer"]
+www.base64encode.org##[class="banner_right"]
+www.urldecoder.org##[class="banner_right"]
+www.urlencoder.org##[class="banner_right"]
+www.addictivetips.com##[id="after-single-title"][class="widget-area"]
+www.smsmeddelande.se##[id="tblAds"]
+windowssecrets.com##[class="block smaller skyscraper"]
+www.geckoandfly.com##[class="IRPP_ruby"]
 @@||cfl.dropboxstatic.com/static/images/growth/exp_invite_contacts_facebook.png$domain=dropbox.com
 ~www.dropbox.com##.facebook-button
 ||jasonsavard.com/images/promos$domain=jasonsavard.com
