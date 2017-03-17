@@ -25,7 +25,6 @@ windowssecrets.com##li:nth-of-type(2) > .smaller.block
 @@||scandi-vod-dash.secure.footprint.net$xmlhttprequest,domain=viaplay.se
 fiddle.jshell.net###keep-us-running
 codereview.stackexchange.com##[id^="adzerk"]
-||cdn.nitrome.com/images/anims/nitrome_frontpage_banner_no_ads.*.swf$domain=www.nitrome.com
 ||cdn.nitrome.com/styles/images/ad_vert_description.png$domain=www.nitrome.com
 ||cdn.nitrome.com/styles/images/advertised_games.png$domain=www.nitrome.com
 ||cdn.nitrome.com/styles/images/ad_description.png$domain=www.nitrome.com
