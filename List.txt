@@ -1,7 +1,200 @@
 [Adblock Plus 2.0]
 ! Title: NeeEooAdBlockingList
 ! Expires: 1 days
-! Version: 14
+! Version: 15
+||getemoji.com/cdn-cgi/nexp/*/cloudflare/rocket.js$domain=getemoji.com
+mg.mail.yahoo.com##.flickr.attribution
+mg.mail.yahoo.com##.themes-opened.attribution-bar
+www.vlt.se##.panel-ad-468.panel
+||mittmedia.ecsanalytics.com/analytics$domain=vlt.se
+||ecsanalytics.com$domain=vlt.se
+||ecsanalytics.com
+www.na.se##.panel-ad-468.panel
+||fusion.bonnieradnetwork.se/stats$domain=hd.se
+||www.dagen.se/img/dagen/lokus-logotyp-new.png$domain=dagen.se
+||www.smashingmagazine.com/wp-content/themes/smashing-magazine/assets/js/blocked.min.js$domain=www.smashingmagazine.com
+www.smashingmagazine.com##.clearfix.hpa
+www.developer.web.za##.advert.bordered.tile
+@@||graph.facebook.com$domain=thefacesoffacebook.com
+smallbusiness.chron.com##.leaderboard
+redshirtsalwaysdie.com##.fs_ad_widget-ad
+ourcodeworld.com##.text-center.col-md-12 > .card
+ourcodeworld.com##.col-lg-4.col-md-4 > .card:nth-of-type(2)
+ourcodeworld.com##.col-lg-4.col-md-4
+||onhax.me/*/*/*/cloudflare/rocket.js$domain=onhax.me
+||onhax.me/wp-content/oh-content/js/*/meora-ui.min.js$domain=onhax.me
+onhax.me###top-promo-dload
+onhax.me###oh-suckitadb-promd-2
+www.tutorialspoint.com##.simple-ad
+www.tutorialspoint.com##.bottomgooglead
+www.tutorialspoint.com##a[href="/about/about_careers.htm"]
+www.browserling.com###web-subscribe
+www.todayifoundout.com###text-4
+www.todayifoundout.com###text-7
+www.todayifoundout.com###text-25
+www.todayifoundout.com###mc-embedded-subscribe-form
+www.todayifoundout.com###text-3
+www.windowsnetworking.com###div-gpt-test-product
+www.windowsnetworking.com###bmp-skyscraper-script
+www.bleepingcomputer.com##div[class="post_block hentry clear"]
+www.sevenforums.com###posts > .media400
+forum.team-mediaportal.com##li[class="message"]
+www.scienceabc.com###text-9 > .widget-title
+www.laptopmag.com##.center.line.mod
+www.laptopmag.com##.tocside-in.tocside
+askleo.com##[class^="askleo_adblock"]
+windowsinstructed.com###text-21
+www.grouppolicy.biz###text-50
+www.dailyecho.co.uk,www.warringtonguardian.co.uk###__nq__hh
+www.dailyecho.co.uk###cta1
+www.dailyecho.co.uk###jobs-carousel-panel
+www.dailyecho.co.uk##.carousel-horizontal.carousel.full-content.end-block-carousel.business-directory
+www.warringtonguardian.co.uk###cta1
+www.majorgeeks.com###menu2 > .altcontent
+www.brighthub.com###sda_201
+www.brighthub.com###sda_200
+www.brighthub.com###sda_199
+www.brighthub.com###sda_197
+www.brighthub.com###sda_198
+||v91tb.brighthub.com/media$domain=www.brighthub.com
+www.grouppolicy.biz###bsap_1306668
+||cdn.adfront.org$domain=grouppolicy.biz
+||www.grouppolicy.biz/*/rocket.js$domain=www.grouppolicy.biz
+windowsinstructed.com##.ssbp-toggle-close.ssbp-toggle-switch
+windowsinstructed.com##.fancybox-inner
+lockergnome.com###text-23
+lockergnome.com###text-21
+||googleads.g.doubleclick.net$domain=www.indezine.com,important
+www.indezine.com###aswift_0
+www.indezine.com###aswift_0_expand
+www.indezine.com###googleup
+www.indezine.com###middlecol
+www.indezine.com###socialtab
+www.indezine.com###leaderboard
+www.indezine.com##.followblk
+www.indezine.com##.hide-on-print
+www.file-extensions.org##div > .left
+www.thoughtco.com###billboard1-sticky_1-0
+||temp-mail.org/*/ezf-min.webp$domain=temp-mail.org
+||www.temp-mail.org/ez_aba_load$domain=temp-mail.org
+temp-mail.org##.ord1.col-xs-12.col-sm-offset-2.col-sm-10.col-md-offset-0.col-md-3
+temp-mail.org##.col-md-12
+||cdn.vidible.tv/prod/js/vidible-min.js$domain=www.xtremedotnettalk.com
+||delivery.vidible.tv$domain=www.xtremedotnettalk.com
+www.xtremedotnettalk.com##center
+www.xtremedotnettalk.com##.background > table > tbody > tr > .background > table:nth-of-type(1) > tbody > tr > td
+www.xtremedotnettalk.com###collapseobj_rbit > tr > td > .tborder
+www.xtremedotnettalk.com##tr:nth-of-type(3) > td > table:nth-of-type(1) > tbody > tr > td:nth-of-type(2) > table > tbody > tr > td
+www.xtremedotnettalk.com##td:nth-of-type(2) > table > tbody > tr:nth-of-type(3) > td > table:nth-of-type(1) > tbody
+osuskinner.com##.ad-width-home
+osuskinner.com##.option-ad
+www.pdfmrg.com##.banner_right
+www.convertstring.com##.social
+online-domain-tools.com##.banner
+online-domain-tools.com###skyscraper-left-content
+perishablepress.com##.ads
+perishablepress.com###mc_embed_signup
+www.mindtools.com###offer-newsletter
+www.mindtools.com##.advert
+www.mindtools.com##.responsive-ad-container
+www.jsoneditoronline.org###ad
+www.emailonacid.com##.sticky.cta-banner
+base64decode.net###ad_right_300_250
+base64encode.net###ad_right_300_250
+www.online-toolz.com###adv-section2
+www.online-toolz.com###adv-section3
+www.online-toolz.com###ad_spacer
+www.askapache.com##.ga-swr.GAD
+ascii.cl##.rightcol
+country-code.cl##.rightcol
+html.cl##.rightcol
+www.diffchecker.com##.wide-note
+||colorize.site/ga.js$domain=colorize.site
+@@||www.youtube.com/subscribe_embed$subdocument,domain=apis.google.com
+minecraft.novaskin.me###links-google
+minecraft.novaskin.me###banner-google
+minecraft.novaskin.me##.bottom
+mcskinsearch.com##.wrap
+mcskinsearch.com##.ad
+mcskinsearch.com##.wrap
+mcskinsearch.com##.ad
+www.kampanjveckan.se##.clearfix.catalog-content > div:nth-of-type(1)
+www.kampanjveckan.se##.clearfix.catalog-content > div:nth-of-type(3)
+www.kampanjveckan.se##.clearfix.catalog-content > div:nth-of-type(4)
+iogames.space##.banner-ad-contain
+smspup.com##.empNetContainer
+www.aida64.com##.adsense
+www.roblox.com###Skyscraper-Abp-Right
+www.roblox.com###Div2
+www.roblox.com###ad
+www.wikihow.com###rightrail0
+www.wikihow.com###rightrail1
+www.auslogics.com##.software-download
+www.auslogics.com###bd-container
+www.auslogics.com###abs-description
+www.theguardian.com##.contributions__epic
+helpdeskgeek.com###social-signup-2
+www.online-tech-tips.com###social-signup-4
+www.techradar.com##.slotify-slot
+www.techradar.com##.placeholder
+www.reference.com##.partial-programmatic-ad.partial
+www.javacreed.com###text-3
+||www.websiteoptimization.com/ga.js$domain=www.websiteoptimization.com
+www.thexifer.net##.adsense-center-banner
+www.hypebot.com###gamma-inner
+www.shouldiblockit.com##div[style="margin-top: 5px; margin-bottom: 25px;"]
+www.shouldiblockit.com###tertiary-content > div[style="margin-top: 20px;"]
+www.shouldiblockit.com###body-content > div[style="margin-top: 35px;"]
+www.shouldiblockit.com###body-content > div[style="margin-top: 5px;"]
+www.shouldiblockit.com###body-content > div[style="margin-top: 20px; margin-bottom: 25px;"]
+www.shouldiblockit.com###body-content > div[style="margin-top: 5px; margin-bottom: 10px;"]
+modernwpthemes.com###text-30
+modernwpthemes.com###text-29
+modernwpthemes.com###text-32
+modernwpthemes.com###text-31
+css3button.net###Ads
+www.techjunkie.com##.sidebar__widget_subscribe.sidebar__widget
+www.techjunkie.com##.subscribe-form
+css-tricks.com##.launchbit-ad-wrapper
+smashinghub.com###aswift_0_expand
+smashinghub.com###aswift_1_expand
+smashinghub.com##.advert
+~twitch.tv##.js-bits-tooltip-wrapper
+designshack.net##.ad-300250
+getemoji.com##a[href^="https://www.amazon.com/tryprimefree"]
+getemoji.com##a[href^="http://www.amazon.com/Audible"]
+||www.automotiveillustrations.com/*/nocopy.js$domain=www.automotiveillustrations.com
+www.automotiveillustrations.com##.rightbarspacer1
+www.automotiveillustrations.com##.rightbarspacer2
+www.automotiveillustrations.com##.rightbarspacer3
+www.automotiveillustrations.com##.divleftthumbs
+www.klart.se###js-sponsor-Lomudal
+~aternos.org###detect
+chunkbase.com##.ad-responsive-top-lb
+outlook.live.com##._n_i
+outlook.live.com##._n_h
+||cdn.nitrome.com/scripts/sideads_*.js$domain=nitrome.com
+www.pcsteps.com##.fancybox-opened.snp-pop--wrap.snp-wrap.fancybox-type-inline.fancybox-desktop.fancybox-wrap
+www.webupd8.org##.spol
+smallbusiness.chron.com##.leaderboard
+linuxlove.eu###text-2
+www.liberiangeek.net###text-49
+www.beopensource.com###HTML1
+www.beopensource.com###HTML5
+www.fotor.com###gg_pancle
+www.fotor.com###ad_app_right
+flyg-radar.se##ASIDE[id="sidebar"][class="sidebar c-4-12"]
+www.windroidtricks.in###HTML2
+www.windroidtricks.in##center
+www.tech-faq.com###sb-site > script[type="text/javascript"]
+www.tech-faq.com##.adblock
+www.freepik.com###topbar
+www.freepik.com##.iframe-sponsor-container
+www.freepik.com###layer_coupon
+urih.com###big
+urih.com###content > div:nth-of-type(2) > div:nth-of-type(2) > div
+www.eurogamer.net##.link
+www.htmlgoodies.com###right-col
 ~www.roblox.com##a[title="Twitter"]
 ~www.roblox.com##a[title="Facebook"]
 slither.io###cstx
@@ -34,6 +227,7 @@ www.nitrome.com###comment_structure
 www.androidpit.com##.article-engagement-nead.article-engagement-adm.article-engagement
 www.driverless.id,www.invisiverse.com,gadgethacks.com,reality.news##.rightbox.whtaph
 www.driverless.id,www.invisiverse.com,gadgethacks.com,reality.news##.leftbox.whtaph
+www.driverless.id,www.invisiverse.com,gadgethacks.com,reality.news##.floatbox.whtaph
 makeappicon.com###banner
 makeappicon.com###apps
 css-tricks.com##[class="end-of-article-ads"]
