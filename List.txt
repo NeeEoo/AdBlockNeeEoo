@@ -217,7 +217,7 @@ windowssecrets.com##li:nth-of-type(2) > .smaller.block
 @@||subs-scandi.secure.footprint.net$domain=viaplay.se
 @@||scandi-vod-dash.secure.footprint.net$xmlhttprequest,domain=viaplay.se
 fiddle.jshell.net###keep-us-running
-codereview.stackexchange.com##[id^="adzerk"]
+stackexchange.com##[id^="adzerk"]
 ||cdn.nitrome.com/styles/images/ad_vert_description.png$domain=www.nitrome.com
 ||cdn.nitrome.com/styles/images/advertised_games.png$domain=www.nitrome.com
 ||cdn.nitrome.com/styles/images/ad_description.png$domain=www.nitrome.com
@@ -307,9 +307,6 @@ www.makeuseof.com##small[style="color:LightGray"]
 ||youtube.com/api/stats/watchtime?$image,domain=youtube.com,important
 ||s.youtube.com/api/stats/playback?$image,important
 ||www.dropbox.com/log/ux_analytics$domain=www.dropbox.com
-serverfault.com###hot-network-questions
-askubuntu.com###hot-network-questions
-stackapps.com###hot-network-questions
 ||secure.accessify.com/track.php$domain=www.accessify.com
 www.expertreviews.co.uk##[id="digiteka_wrapper"]
 www.raymond.cc##[id="text-7"][class="widget widget_text"]
@@ -395,9 +392,9 @@ forums.techguy.org##[class="message"]
 wikia.com###RECIRCULATION_RAIL
 wikia.com###WikiaFooter[class="WikiaFooter notoolbar"]
 wikia.com##.fan-feed-rail
-stackexchange.com###hot-network-questions
 www.speedtest.net##.no-shadow.ad-vertical-tower.ad-vertical-container
-stackoverflow.com###hot-network-questions
+stackexchange.com,stackoverflow.com,serverfault.com,askubuntu.com,stackapps.com###hot-network-questions
+stackexchange.com,stackoverflow.com,serverfault.com,askubuntu.com,stackapps.com##.everyonelovesstackoverflow
 www.howtogeek.com##[href="http://macpaw.7eer.net/c/156932/66541/1733?subId1=banner&subId2=231496"]
 www.howtogeek.com##[href="http://macpaw.7eer.net/c/156932/66541/1733?subId1=banner&subId2=211496"]
 www.howtogeek.com##[id="syykflrrxqoawqt"]
