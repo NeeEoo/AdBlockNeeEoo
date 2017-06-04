@@ -1,7 +1,73 @@
 [Adblock Plus 2.0]
 ! Title: NeeEooAdBlockingList
 ! Expires: 1 days
-! Version: 15
+! Version: 16
+www.converttoaudio.com###M205994ScriptRootC79992
+www.converttoaudio.com###M205994ScriptRootC79994
+www.converttoaudio.com##.header-banner.small-banner > div
+www.converttoaudio.com##.converter-row > .header-banner > div
+www.converttoaudio.com##.content-rectangle
+www.converttoaudio.com###colorbox
+www.converttoaudio.com###cboxOverlay
+www.flvto.biz##.hidden-mobile
+youtubeinmp4.com###facebook
+youtubeinmp4.com###b300ib
+youtubeinmp4.com###b728l
+discussions.virtualdr.com###main > tbody > tr > td:nth-of-type(2)
+||mresell.macworld.co.uk/*/index.php$domain=macworld.co.uk
+rainmeter.deviantart.com##.module-blocks.module-min.gruze-sidebar-end.right-sidebar.gruze-sidebar.f
+forum.roblox.com###Body > table > tbody > tr > td:nth-of-type(4)
+win.tweaklibrary.com###ctl00_ContentPlaceHolder1_pnlLink
+review.easycounter.com##.average-bk-6
+||www.groovypost.com/wp-content/cache/wpfc-minified/63815dca55646f6e44e0cd57eceaff62/1495684906index.js$domain=www.groovypost.com
+www.onlinevideoconverter.com##.download-section-1-2-left
+ameobea.me###tiny
+idg.se##.conrad
+youbentmywookie.com##.banner1
+youbentmywookie.com##.banner_side
+||clancy.spiceworks.com/px
+www.codeproject.com##.bottom-promo
+www.makeuseof.com##.adlabel
+||aternos.org/src/js/scrollad.js$domain=aternos.org
+www.instructables.com###double-inline-ads
+minecraft.gamepedia.com###atflb
+www.aftonbladet.se##.abTheme-infeedad
+www.windowscentral.com##.side-ad
+www.macprices.net###ads
+||www.minecrafthackedclients.com/*/rocket.js$domain=www.minecrafthackedclients.com
+www.digminecraft.com###pre_header
+www.digminecraft.com##.adsblocked
+www.digminecraft.com##.left_slot.slot
+www.digminecraft.com##.bottom_slot.slot
+stackexchange.com##.everyonelovesstackoverflow
+||lastpass.com/m.php/analyticsjs
+www.gottabemobile.com###cb-header
+||temp-mail.org/*/antiblock.js
+~osu.ppy.sh##.icon-twitter
+deviantart.com##.ad-container
+@@||s01.flagcounter.com
+@@||flagcounter.com
+||clancy.spiceworks.com/px
+www.codeproject.com##.bottom-promo
+||spiceworks.com/assets/tracker.js
+community.norton.com##img[src="/en/system/files/u1933/Activate-banner-1-328x234.jpeg"]
+dirtymarkup.com###info
+www.multilinkopener.com##.xoxo
+||www.mrexcel.com/forum/ads
+www.addictivetips.com##.respoad
+www.skipser.com###skipser_incontent_textad
+www.ilovefreesoftware.com##.ABD_display_wrapper
+uk.pcmag.com###adkit_mrec1
+uk.pcmag.com###adkit_mrec2
+uk.pcmag.com###adkit_rectangle
+www.vdyoutube.com##body > a
+www.numgen.org##.banner_right
+www.pwdgen.org##.banner_right
+www.pdfspl.com##.banner_right
+tampermonkey.net##.adventing
+tampermonkey.net##.p100100.noborder:nth-of-type(1) > tbody > tr > td:nth-of-type(2)
+tampermonkey.net##.p100100.noborder:nth-of-type(2) > tbody > tr > td:nth-of-type(1)
+||cdm.cursecdn.com/js/gamepedia/cdmfactorem_min.js
 ||getemoji.com/cdn-cgi/nexp/*/cloudflare/rocket.js$domain=getemoji.com
 mg.mail.yahoo.com##.flickr.attribution
 mg.mail.yahoo.com##.themes-opened.attribution-bar
@@ -1565,12 +1631,12 @@ pixel.quantserve.com
 ||zergnet.com
 ||azadify.com
 ||adtech.de
-ads.pubmatic.com/*
-www.gamepedia.com/pro/*
-rcm-na.amazon-adsystem.com/*
+ads.pubmatic.com
+www.gamepedia.com/pro/
+rcm-na.amazon-adsystem.com
 www.webdesignerdepot.com/widget/wdd-freebie-popup.php?ref=wddpopup&show_after=2
-||supercheats.com/womfeolite/womfenvaldite/*
-||supercheats.com/fopfeolite/fopfenvaldite/*
+||supercheats.com/womfeolite/womfenvaldite/
+||supercheats.com/fopfeolite/fopfenvaldite/
 www.antiadblockscript.com/js/LbT2r3L40o3m.js
 ||outbrain.com
 px.moatads.com/pixel.gif
