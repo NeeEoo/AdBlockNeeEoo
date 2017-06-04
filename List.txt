@@ -1566,7 +1566,6 @@ pixel.quantserve.com
 ||azadify.com
 ||adtech.de
 ads.pubmatic.com/*
-cdm.cursecdn.com/*
 www.gamepedia.com/pro/*
 rcm-na.amazon-adsystem.com/*
 www.webdesignerdepot.com/widget/wdd-freebie-popup.php?ref=wddpopup&show_after=2
