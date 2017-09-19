@@ -393,7 +393,7 @@ www.thenews.com.pk##[class="ads"]
 www.express.co.uk##[class="slideshowadvert"]
 www.express.co.uk##[class="galleryShell cf"]
 ||aftonbladet.se/rabattkod/
-||www.google-analytics.com^$important
+||www.google-analytics.com
 ||gfx.aftonbladet-cdn.se/template/ver1-0/gfx/trans_1x1.gif
 superuser.com###hot-network-questions
 www.impressivewebs.com##.content-left > .update-box
